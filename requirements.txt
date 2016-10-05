@@ -1,0 +1,10 @@
+aiohttp==1.0.2
+async-timeout==1.0.0
+chardet==2.3.0
+gevent==1.1.2
+greenlet==0.4.10
+grequests==0.3.0
+multidict==2.1.2
+requests==2.11.1
+tornado==4.4.1
+uvloop==0.5.3
